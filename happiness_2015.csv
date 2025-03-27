@@ -1,51 +1,51 @@
-Country,Region,Happiness Rank,Happiness Score
-Argentina,Latin America and Caribbean,30,6.574
-Australia,Australia and New Zealand,10,7.284
-Austria,Western Europe,13,7.2
-Bahrain,Middle East and Northern Africa,50,5.96
-Belgium,Western Europe,19,6.937
-Brazil,Latin America and Caribbean,16,6.983
-Canada,North America,5,7.427
-Chile,Latin America and Caribbean,27,6.67
-Colombia,Latin America and Caribbean,33,6.477
-Costa Rica,Latin America and Caribbean,12,7.226
-Czech Republic,Central and Eastern Europe,31,6.505
-Denmark,Western Europe,3,7.527
-Ecuador,Latin America and Caribbean,48,5.975
-El Salvador,Latin America and Caribbean,42,6.13
-Finland,Western Europe,6,7.406
-France,Western Europe,29,6.575
-Germany,Western Europe,26,6.75
-Guatemala,Latin America and Caribbean,43,6.123
-Iceland,Western Europe,2,7.561
-Ireland,Western Europe,18,6.94
-Israel,Middle East and Northern Africa,11,7.278
-Italy,Western Europe,49,5.948
-Japan,Eastern Asia,46,5.987
-Kuwait,Middle East and Northern Africa,39,6.295
-Luxembourg,Western Europe,17,6.946
-Malta,Western Europe,37,6.302
-Mexico,Latin America and Caribbean,14,7.187
-Netherlands,Western Europe,7,7.378
-New Zealand,Australia and New Zealand,9,7.286
-Norway,Western Europe,4,7.522
-Oman,Middle East and Northern Africa,22,6.853
-Panama,Latin America and Caribbean,25,6.786
-Qatar,Middle East and Northern Africa,28,6.611
-Saudi Arabia,Middle East and Northern Africa,35,6.411
-Singapore,Southeastern Asia,24,6.798
-Slovakia,Central and Eastern Europe,45,5.995
-South Korea,Eastern Asia,47,5.984
-Spain,Western Europe,36,6.329
-Suriname,Latin America and Caribbean,40,6.269
-Sweden,Western Europe,8,7.364
-Switzerland,Western Europe,1,7.587
-Thailand,Southeastern Asia,34,6.455
-Taiwan,Eastern Asia,38,6.298
-Trinidad,Latin America and Caribbean,41,6.168
-United Arab Emirates,Middle East and Northern Africa,20,6.901
-United Kingdom,Western Europe,21,6.867
-United States,North America,15,7.119
-Uruguay,Latin America and Caribbean,32,6.485
-Uzbekistan,Central and Eastern Europe,44,6.003
-Venezuela,Latin America and Caribbean,23,6.81
+Country,Happiness Rank,Happiness Score
+Argentina,30,6.574
+Australia,10,7.284
+Austria,13,7.2
+Bahrain,50,5.96
+Belgium,19,6.937
+Brazil,16,6.983
+Canada,5,7.427
+Chile,27,6.67
+Colombia,33,6.477
+Costa Rica,12,7.226
+Czech Republic,31,6.505
+Denmark,3,7.527
+Ecuador,48,5.975
+El Salvador,42,6.13
+Finland,6,7.406
+France,29,6.575
+Germany,26,6.75
+Guatemala,43,6.123
+Iceland,2,7.561
+Ireland,18,6.94
+Israel,11,7.278
+Italy,49,5.948
+Japan,46,5.987
+Kuwait,39,6.295
+Luxembourg,17,6.946
+Malta,37,6.302
+Mexico,14,7.187
+Netherlands,7,7.378
+New Zealand,9,7.286
+Norway,4,7.522
+Oman,22,6.853
+Panama,25,6.786
+Qatar,28,6.611
+Saudi Arabia,35,6.411
+Singapore,24,6.798
+Slovakia,45,5.995
+South Korea,47,5.984
+Spain,36,6.329
+Suriname,40,6.269
+Sweden,8,7.364
+Switzerland,1,7.587
+Thailand,34,6.455
+Taiwan,38,6.298
+Trinidad,,41,6.168
+United Arab Emirates,20,6.901
+United Kingdom,21,6.867
+United States,15,7.119
+Uruguay,32,6.485
+Uzbekistan,44,6.003
+Venezuela,23,6.81
