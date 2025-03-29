@@ -42,17 +42,22 @@ Run the script:
 python bar_graph.py
 ```
 
+![Bar Graph][205217.png]
+
 ### 2. Line Chart Visualization (`line_graph.py`)
 This script plots a line graph to show the relationship between happiness ranking and GDP.
 #### Features:
 - Uses `plot()` to display the trend.
 - X-axis: Country names sorted by happiness rank.
 - Y-axis: GDP values.
+- Rotates x-axis labels for readability.
 
 Run the script:
 ```bash
 python line_graph.py
 ```
+
+![Line Graph][205244.png]
 
 ### 3. Scatter Plot Visualization (`scatter_plot.py`)
 This script creates a scatter plot to show the correlation between happiness ranking and GDP.
@@ -60,13 +65,18 @@ This script creates a scatter plot to show the correlation between happiness ran
 - Uses `scatter()` to plot data points.
 - X-axis: Country names sorted by happiness rank.
 - Y-axis: GDP values.
+- Rotates x-axis labels for readability.
 
 Run the script:
 ```bash
 python scatter_plot.py
 ```
 
+![Scatter Plot][205315.png]
+
 ## Notes
 - The scripts assume that the data files contain the correct column names.
 - Adjust `figsize` or `subplots_adjust` as needed for better visualization on different screens.
 - Modify the file paths if necessary to match your data directory structure.
+
+[def]: fd
